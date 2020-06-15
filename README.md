@@ -1,5 +1,5 @@
 # Energy-Visualization
-This was a Visualization contest (optional) in my ECE 2720 Class where I was chosen as one of the top 2 visualizations.
+This was a Visualization contest (optional) in my ECE 2720 Class where I was chosen as the winning visualization.
 In addition to the data found in this repository, population data from 	https://www.multpl.com/united-states-population/table/by-year was also utilized. This visualization showed several interesting trends aside from the obvious increase in energy consumption per individual.
 
 One trend details the complete lack of renewable energy in the transportation sector which leads one to question it 
